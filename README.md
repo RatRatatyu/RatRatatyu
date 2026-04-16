@@ -11,11 +11,10 @@ Alongside mobile development, I am actively exploring Machine Learning and AI te
 ### 📱 Mobile Development  
 - Flutter — development of simple mobile applications  
 - Android (Kotlin) — studying native Android development  
-- React Native — learning cross-platform mobile development  
+  
 
 ### 💻 Programming & Development  
-- Python, Kotlin, Dart, JavaScript, TypeScript  
-- Java, Go  
+- Python, Kotlin, Dart, Java
 - Understanding of OOP principles  
 
 ### 🗄 Databases  
@@ -23,11 +22,9 @@ Alongside mobile development, I am actively exploring Machine Learning and AI te
 
 ### 🧰 Tools & Technologies  
 - Android Studio, VS Code  
-- Git, GitHub, GitLab  
+- Git, GitHub 
 - UiPath  
-- Cursor  
-- Arduino  
-- Blender  
+- Cursor    
 - Telegram bot development  
 
 ### 📄 Software Engineering  
@@ -39,7 +36,7 @@ Alongside mobile development, I am actively exploring Machine Learning and AI te
 - 💻 Hackathon 2025 — 10th place  
 
 ## 🌍 Additional Information  
-- 🇬🇧 English level: Intermediate  
+- English level: Intermediate  
 - Strong interest in modern technologies, IT development, and Artificial Intelligence  
 - Actively learning and improving technical skills  
 
