@@ -9,31 +9,38 @@ Alongside mobile development, I am actively exploring Machine Learning and AI te
 ## 🛠 Key Skills  
 
 ### 📱 Mobile Development  
-- Flutter — development of simple mobile applications  
-- Android (Kotlin) — studying native Android development  
+- Flutter 
+- Android (Jetpack Compose)
+- XR (currently learning)
+
   
-
-### 💻 Programming & Development  
-- Python, Kotlin, Dart, Java
-- Understanding of OOP principles  
-
+### 💻 Programming Languages
+- Python
+- Kotlin
+- Dart
+- Java
+  
+### 🏗 Software Development
+- Object-Oriented Programming (OOP)
+- Software architecture fundamentals
+- Git & GitHub
+  
 ### 🗄 Databases  
 - PostgreSQL  
 
-### 🧰 Tools & Technologies  
-- Android Studio, VS Code  
-- Git, GitHub 
-- UiPath  
-- Cursor    
-- Telegram bot development  
+### 🧰 Tools
+- Android Studio
+- VS Code
+- Cursor
 
 ### 📄 Software Engineering  
-- Writing software documentation according to GOST standards  
-- Creating technical specifications (TZ)  
+- Software documentation (GOST standards)
+- Technical specifications
 
 ## 🏆 Achievements  
 - 🥇 WorldSkills 2023 — 1st place  
-- 💻 Hackathon 2025 — 10th place  
+- 💻 Hackathon 2025 — Top 10
+- 📃 Conference "Student Research: Challenges and Development Trends" 2026 — 3rd Place
 
 ## 🌍 Additional Information  
 - English level: Intermediate  
